@@ -1,0 +1,4 @@
+{
+  "name": "ChatAi Codespace",
+  "postCreateCommand": "npm install -g @anthropic-ai/claude-code"
+}
